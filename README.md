@@ -12,7 +12,7 @@ This is a touchscreen interface for a microwave, first showing an example of a b
 
 ### Alfa Romeo 90
 
-<img src="dashboard0.jpg" alt="dashboard0" width="200">
+<img src="dashboard0.jpg" alt="dashboard0" width="500">
 
 Pros: 
 -Speedometer is large and visible from a distance.
@@ -28,7 +28,7 @@ Cons:
 
 ### Corvette C4
 
-<img src="dashboard1.jpg" alt="dashboard1" width="200">
+<img src="dashboard1.jpg" alt="dashboard1" width="500">
 
 Pros:  
 -Speedometer and Tachometers are clearly visible.  
@@ -43,7 +43,7 @@ Cons:
 
 ### Toyota Corolla GT-S
 
-<img src="dashboard2.jpg" alt="dashboard2" width="200">
+<img src="dashboard2.jpg" alt="dashboard2" width="500">
 
 Pros:  
 -Large speedometer taking up most of the space.  
@@ -60,7 +60,7 @@ Cons:
 
 ### Lamborghini Aventador
 
-<img src="dashboard3.jpg" alt="dashboard3" width="200">
+<img src="dashboard3.jpg" alt="dashboard3" width="500">
 
 Pros:  
 -Tachometer is easy to read.  
@@ -76,7 +76,7 @@ Cons:
 
 ### Nissan z31
 
-<img src="dashboard4.jpg" alt="dashboard4" width="200">
+<img src="dashboard4.jpg" alt="dashboard4" width="500">
 
 Pros:  
 -Overall has kept everything to the bare essentials.  
@@ -92,7 +92,7 @@ Cons:
 
 ### Nissan z35
 
-<img src="dashboard5.jpg" alt="dashboard5" width="200">
+<img src="dashboard5.jpg" alt="dashboard5" width="500">
 
 Pros:  
 -Tachometer and Speedometer are large and easy to read.  
@@ -116,7 +116,7 @@ The most common usages of a dashboard are checking speed, fuel, and rpm, with th
 
 ## New Design
 
-<img src="sketchdashinterface.jpg" alt="sketchinterface" width="400"/>
+<img src="sketchdashinterface.jpg" alt="sketchinterface" width="500"/>
 
 I've chosen to, rather than make a one size fit all gauge cluster, make one for a specific car. I'm actually quite a fan of the Nissan Z series,
 and the latest gen (z35) is coming out in a year. The car looks great and has an all digital gauge cluster (seen above), which works well and is easy to read, but I can't help but
